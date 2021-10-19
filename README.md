@@ -10,9 +10,13 @@
 * Clear database
 ## How to run:
 * Run server-side: 
-```npm start```
+```
+npm start
+```
 or
-```npm run dev```
+```
+npm run dev
+```
 * Run client-side:
 ```
 cd app
